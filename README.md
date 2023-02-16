@@ -11,3 +11,4 @@ Data Kelompok
 7. 1214074	Adrian Bimo Hernawan Pratama, 1214079 Aulia Maharani
 8. 1214060 Prisya Haura Febrianti, 1214064 Adam Ghafara
 9. 1214078 Maulana Imanulhaq Nurdiana, Muh Fauzan Alif
+10. 1214082 Gregorius Bagaskara Balisa, 1204059 Dean Teguh Imansyah
